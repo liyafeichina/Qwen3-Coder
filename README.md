@@ -28,6 +28,8 @@ Today, we're announcing Qwen3-Coder, our most agentic code model to date. **Qwen
 
 🛠 **Agentic Coding**: supporting for most platform such as **Qwen Code**, **CLINE**, featuring a specially designed function call format;
 
+📋 **Agent Capabilities**: For a complete list of agent functionalities, see [Agent Capabilities](AGENT_CAPABILITIES.md) ([中文版](AGENT_CAPABILITIES_ZH.md))
+
 ## Basic information
 
 1. ✨ Supporting long context understanding and generation with the context length of 256K tokens;
